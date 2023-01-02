@@ -1,0 +1,10 @@
+fun main() {
+    val name:string ="Abdullah"
+    val f:Float = 20.6f
+    val d:Double = 8.54433
+    val byte:Byte = 25
+    val s:Short =2022
+    val L:Long = 3265432567890
+    val b:Boolean = true
+    val c:Char = 'c'
+}
